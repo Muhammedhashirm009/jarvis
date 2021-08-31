@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Jimbrootan*:  ```" + msg + "```"
+    return "✅ *jarvis*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Jimbrootan*:  ```" + msg + "```"
+    return "🛑 *jarvis*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Jimbrootan*:  ```" + msg + "```"
+    return "⏺️ *jarvis*:  ```" + msg + "```"
 }
 
 
